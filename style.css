@@ -1,0 +1,23 @@
+/* Custom styles for Book Explorer */
+
+/* Ensure images maintain aspect ratio */
+img {
+    aspect-ratio: 2/3;
+    background-color:#f3f4f6; 
+}
+  
+.book-cover {
+    min-height: 12rem;
+}
+
+
+.container {
+    max-width: 720px; 
+}
+
+.line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+} 
