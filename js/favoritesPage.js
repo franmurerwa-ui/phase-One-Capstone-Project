@@ -1,0 +1,1 @@
+// loads favorites from localStorage
