@@ -1,5 +1,5 @@
-/* Custom styles for Book Explorer */
 
+/* Custom styles for Book Explorer */
 /* Ensure images maintain aspect ratio */
 img {
     aspect-ratio: 2/3;
@@ -9,12 +9,9 @@ img {
 .book-cover {
     min-height: 12rem;
 }
-
-
 .container {
-    max-width: 720px; 
+    max-width: 1280px;
 }
-
 .line-clamp-2 {
     display: -webkit-box;
     -webkit-line-clamp: 2;
