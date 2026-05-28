@@ -1,6 +1,6 @@
 # Capstone Project 
 
-A small static web app for browsing movies and saving favorites. Built with HTML, CSS, and vanilla JavaScript.
+A small static web app for browsing books and saving favorites. Built with HTML, CSS, and vanilla JavaScript.
 
 ## Features
 - Browse movies via the app UI
