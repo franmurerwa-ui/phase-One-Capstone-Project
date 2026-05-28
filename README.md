@@ -1,4 +1,4 @@
-# Capstone Project — Movie/Favorites Web App
+# Capstone Project 
 
 A small static web app for browsing movies and saving favorites. Built with HTML, CSS, and vanilla JavaScript.
 
@@ -40,13 +40,8 @@ python -m http.server 8000
 
 ## Usage
 
-- Browse movies on the main page.
+- Browse books on the main page.
 - Click the favorite/save control to add items to `favorites.html`.
 - Open the `favorites.html` page to review saved items.
-
-## Notes for development
-
-- JavaScript files are in the `js/` folder. Edit them and reload the browser to see changes.
-- If the app fetches data from an external API, run from a local server to avoid CORS/file:// issues.
 
 
